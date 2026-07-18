@@ -30,6 +30,7 @@ git clone https://github.com/DefaultCode01/tela-login-python.git
 
 ```bash
 pip install -r requirements.txt
+ou pip install customtkinter
 ```
 
 3. Execute
