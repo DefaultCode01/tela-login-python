@@ -4,7 +4,7 @@ Projeto simples de uma tela de login desenvolvida em Python utilizando a bibliot
 
 
 <p align="center">
-  <img src="Imagens/image.png" alt="Tela de Login" width="500">
+  <img src="Imagens/image.png" alt="Tela de Login" width="300">
 </p>
 
 
