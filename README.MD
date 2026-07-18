@@ -2,7 +2,10 @@
 
 Projeto simples de uma tela de login desenvolvida em Python utilizando a biblioteca CustomTkinter.
 
-![Tela de Login](Imagens/image.png)
+
+<p align="center">
+  <img src="Imagens/image.png" alt="Tela de Login" width="500">
+</p>
 
 
 ## Tecnologias
